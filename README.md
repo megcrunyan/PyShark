@@ -1,0 +1,2 @@
+# PyShark
+Card game simulator
